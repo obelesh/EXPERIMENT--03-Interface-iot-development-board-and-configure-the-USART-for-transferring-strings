@@ -182,9 +182,8 @@ static void MX_USART2_UART_Init(void)
 }
 
 ## Output screen shots of Serial port utility   :
-<img width="1220" height="759" alt="image" src="https://github.com/user-attachments/assets/ce9dd085-c278-4a32-a415-f588a61da5af" />
 
-
+![WhatsApp Image 2026-03-13 at 9 40 20 AM](https://github.com/user-attachments/assets/3a1a7b28-590e-4635-bc77-10b2d2fa69f7)
 
 
 ## Result :
