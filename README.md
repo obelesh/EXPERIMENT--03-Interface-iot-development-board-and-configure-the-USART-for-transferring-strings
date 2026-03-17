@@ -182,9 +182,9 @@ static void MX_USART2_UART_Init(void)
 }
 
 ## Output screen shots of Serial port utility   :
- 
- 
-![IOT 3 IMG](https://github.com/user-attachments/assets/629b5354-4f39-450a-ab05-b512b19940c7)
+ ![IOT 3 IMG](https://github.com/user-attachments/assets/08044d74-26d1-405a-a0b1-dbb04b33af52)
+
+
 
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
