@@ -1,12 +1,12 @@
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 
-**DATE:**
+**DATE:17.03.2025**
 
-**NAME:**
+**NAME:OBELESH R**
 
-**ROLL NO:**
+**ROLL NO:212224040228**
 
-**DEPARTMENT:**
+**DEPARTMENT:BE CSE**
 
 ## Aim:
 
@@ -183,8 +183,7 @@ static void MX_USART2_UART_Init(void)
 
 ## Output screen shots of Serial port utility   :
  
- 
- 
- 
+ ![IOT 3 IMG](https://github.com/user-attachments/assets/2f6df36d-0b46-45cc-af93-cb6ae870cba9)
+
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
